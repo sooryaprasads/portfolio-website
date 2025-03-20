@@ -117,8 +117,8 @@ function App() {
         <div className="home-content">
           <h1>Hi, I'm <span>Soorya Prasad</span><span className="animate" style={{'--i':2}}></span></h1>
           <div className="text-animate">
-            <h3>Cloud Computing/ SDE</h3>
-            <span className="animate" style={{'--i':3}}></span>
+            <h3>Tech Mahindra/Intern</h3>
+            <span className="anichmate" style={{'--i':3}}></span>
           </div>
           <p>As an aspiring Engineer, I am eager to contribute my technical expertise <br/>to a challenging work environment. With a passion for continuous<br/> learning, I am ready to leverage my engineering background and dedication to enhance the innovation and success.
             <span className="animate" style={{'--i':4}}></span>
@@ -126,8 +126,8 @@ function App() {
         </div>
         <div className="home-sci">
           <a href="mailto:sooryaprasads28@gmail.com"><i className='bx bxl-gmail'></i></a>
-          <a href="https://www.linkedin.com/in/soorya-prasad-s/"><i className='bx bxl-linkedin'></i></a>
-          <a href="https://www.github.com/sooryaprasad28/"><i className='bx bxl-github'></i></a>
+          <a href="https://www.linkedin.com/in/sooryaprasads/"><i className='bx bxl-linkedin'></i></a>
+          <a href="https://www.github.com/sooryaprasads/"><i className='bx bxl-github'></i></a>
           <a href={Resume} download="Soorya Prasad.pdf"><i className='bx bx-cloud-download'></i></a>
           <span className="animate" style={{'--i':6}}></span>
         </div>
