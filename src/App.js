@@ -117,7 +117,7 @@ function App() {
         <div className="home-content">
           <h1>Hi, I'm <span>Soorya Prasad</span><span className="animate" style={{'--i':2}}></span></h1>
           <div className="text-animate">
-            <h3>Tech Mahindra/Intern</h3>
+            <h3>SDE</h3>
             <span className="anichmate" style={{'--i':3}}></span>
           </div>
           <p>As an aspiring Engineer, I am eager to contribute my technical expertise <br/>to a challenging work environment. With a passion for continuous<br/> learning, I am ready to leverage my engineering background and dedication to enhance the innovation and success.
